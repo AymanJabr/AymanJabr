@@ -4,11 +4,14 @@
 
 <br>
 
-![](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
+<div align="center">
+
+![](https://media.giphy.com/media/144Q1gg0FkTEVG/giphy.gif)
+</div>
 
 <br>
 
- <span style="font-size: 30px; margin-bottom: 25px"> You can find my portafolio [here](aymanjabr.me) </span>
+ # You can find my portafolio [here](aymanjabr.me) 
 
    
 <br>
