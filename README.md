@@ -63,10 +63,10 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='45'>](https://github.com/AymanJabr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='45'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ayman-jabr//) [<img src='https://www.vectorlogo.zone/logos/angel/angel-icon.svg' alt='linkedin' height='45'>](https://angel.co/u/ayman-jabr)
 
 
- <span style="font-size: 20px; margin-bottom: 25px"> You can reach me at:  **aymanjaber2012@gmail.com** </span>
+## You can reach me at:  **aymanjaber2012@gmail.com** 
 
 
-<br><br>
+<br>
 
 ## GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AymanJabr&count_private=true&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
