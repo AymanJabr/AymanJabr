@@ -1,51 +1,28 @@
-# About me
-
--Technology-related topics you're interested in
--Personal information, such as likes and dislikes
-
-
-
-
-
-
-
-
-
--Use Canva to create a professional banner
--Add links or contact information (such as an e-mail address, LinkedIn/AngelList buttons, etc).
-
--You can use Emojies and Gifs, but within limits
-
-
-
--Cute anime pictures
-
-
-
-
-------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
 
 <h1 align="center">Hi 👋, I'm Ayman Jabr</h1>
 <h3 align="center">I am a full-stack web developer, with 2 years of experience with ruby-on-rails, and React/Redux experience. Currently looking for job/learning opportunity</h3>
 
+<br>
 
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
+
+<br>
+
+ <span style="font-size: 30px; margin-bottom: 25px"> You can find my portafolio [here](aymanjabr.me) </span>
+
+   
+<br>
 
 
-- 👨‍💻 All of my projects are available at [aymanjabr.me](aymanjabr.me)
 
-- 📫 How to reach me **aymanjaber2012@gmail.com**
+# About me
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='45'>](https://github.com/AymanJabr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='45'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ayman-jabr//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='45'>](aymanjabr.me)  
+### I love coding specifically because I love the puzzle-solving aspect of it. I'm the sort of person who in order to relax on the weekend, solves coding challenges, builds games, and enters hackathons.
 
 
+
+
+<br>
 
 
 # Skills
@@ -56,7 +33,7 @@
 
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="45" height="45"/> </a><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/> </a> 
 
-<a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="45" height="45"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886645cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="45" height="45"/> </a><a href="https://rspec.info/" target="_blank"> <img src="https://i.postimg.cc/67q8krph/rspec-logo.png" alt="rspec" width="45" height="45"/> </a>
+<a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="45" height="45"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://i.postimg.cc/gx7fqhr7/selenium-logo.png" alt="selenium" width="45" height="45"/> </a><a href="https://rspec.info/" target="_blank"> <img src="https://i.postimg.cc/67q8krph/rspec-logo.png" alt="rspec" width="45" height="45"/> </a>
 
 
 </p>
@@ -78,6 +55,15 @@
 <br>
 <br>
 
+# Contact me
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='45'>](https://github.com/AymanJabr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='45'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ayman-jabr//) [<img src='https://www.vectorlogo.zone/logos/angel/angel-icon.svg' alt='linkedin' height='45'>](https://angel.co/u/ayman-jabr)
+
+
+ <span style="font-size: 20px; margin-bottom: 25px"> You can reach me at:  **aymanjaber2012@gmail.com** </span>
+
+
+<br><br>
 
 ## GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AymanJabr&count_private=true&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
