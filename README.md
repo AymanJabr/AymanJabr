@@ -36,7 +36,6 @@ When I'm not architecting infrastructure or mentoring developers, you'll find me
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> </a>
     <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="45" height="45"/> </a>
 </p>
-<strong>Other Front-End Skills:</strong> RAG, LangChain, CMS Solutions
 
 ### Back-End
 <p align="left">
